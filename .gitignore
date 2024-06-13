@@ -4,3 +4,17 @@
 /target/
 /logs/
 /dist/
+/.github/
+/app/
+/build/
+/docs/
+/libraries/
+/.eslintignore/
+/.eslintrc.json/
+/.nvmrc/
+/LICENSE.txt/
+/dev-app-update.yml/
+/electron-builder.yml/
+/index.js/
+/package-lock.json/
+/package.json/
